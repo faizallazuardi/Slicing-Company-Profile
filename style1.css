@@ -59,7 +59,7 @@ body {
 
 #blog .container .satu div {
   height: 28rem;
-  background-image: url(../img/kk1.png);
+  background-image: url(img/kk1.png);
   background-size: cover;
   background-position: center;
 }
@@ -67,19 +67,19 @@ body {
 #blog .container .dua .gbr1 {
   width: 8rem;
   height: 8rem;
-  background-image: url(../img/kk2.png);
+  background-image: url(img/kk2.png);
   background-size: cover;
 }
 #blog .container .dua .gbr2 {
   width: 8rem;
   height: 8rem;
-  background-image: url(../img/kk3.png);
+  background-image: url(img/kk3.png);
   background-size: cover;
 }
 #blog .container .dua .gbr3 {
   width: 8rem;
   height: 8rem;
-  background-image: url(../img/kk4.png);
+  background-image: url(img/kk4.png);
   background-size: cover;
   background-position: center;
 }
@@ -113,26 +113,26 @@ body {
 
   #blog .container .satu div {
     height: 20rem;
-    background-image: url(../img/kk1.png);
+    background-image: url(img/kk1.png);
     background-size: cover;
   }
 
   #blog .container .dua .gbr1 {
     width: 14rem;
     height: 6rem;
-    background-image: url(../img/kk2.png);
+    background-image: url(img/kk2.png);
     background-size: cover;
   }
   #blog .container .dua .gbr2 {
     width: 14rem;
     height: 6rem;
-    background-image: url(../img/kk3.png);
+    background-image: url(img/kk3.png);
     background-size: cover;
   }
   #blog .container .dua .gbr3 {
     width: 14rem;
     height: 6rem;
-    background-image: url(../img/kk4.png);
+    background-image: url(img/kk4.png);
     background-size: cover;
   }
 }
